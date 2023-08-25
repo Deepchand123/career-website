@@ -18,8 +18,4 @@ To Develop a Cloud cloud-based e-learning and Career Building Intercommunication
 
 ![image](https://github.com/Deepchand123/career-website/assets/108334863/6f5215d6-51ae-4fe2-abff-992e4b19f818)
 
-
-# Model Prediction
-![image](https://github.com/Deepchand123/career-website/assets/108334863/a0dca5b8-9d87-4f4a-a9af-e8f5ea51c1ba)
-![image](https://github.com/Deepchand123/career-website/assets/108334863/49114281-819a-4c38-9c60-9554e5af8021)
-![image](https://github.com/Deepchand123/career-website/assets/108334863/f4b8b4ad-1dbe-4602-a118-cff09a1a0229)
+![image](https://github.com/Deepchand123/career-website/assets/108334863/b673c246-def3-472d-a3d8-d8b19488b57f)
