@@ -1,5 +1,5 @@
 # Career-Website
-In this project, we developed a Cloud Based Social Networking System for Education and Career Development where students can access all the required knowledge, and skills as well as interact with the community and other users in one place for career guidance. Also, we have integrated Career Prediction using machine learning and automated Chatbots to solve customer concerns and queries.
+In this project, we developed a Web-Based Networking Platform for Education and Career Progression where students can access all the required knowledge, and skills as well as interact with the community and other users in one place for career guidance. Also, we have integrated Career Prediction using machine learning and automated Chatbots to solve customer concerns and queries.
 
 # Project Idea
 To Develop a Cloud cloud-based e-learning and Career Building Intercommunication System for students it’s an all-in-one, one-stop solution for the student’s problem, where the student/user can access all the required knowledge, and skills as well as interact with the community in one place.
